@@ -2,7 +2,7 @@ GudangTopUp adalah platform top-up game online yang cepat, aman, dan mudah digun
 
 Cara Penggunaan :
 
-1. Pilih game yang ingin di-top-up.
+1. Pilih game yang ingin di-top-up di daftar game.
 
 2. Masukkan User ID dan Zone ID.
 
@@ -12,4 +12,5 @@ Cara Penggunaan :
 
 5. Pindai QR Code dengan kamera HP dan klik link yang muncul.
 
-Noted : Pembayaran masih dalam bentuk tampilan saja, belum melakukan pembayaran asli.
+Noted : - Pembayaran masih dalam bentuk tampilan saja, belum melakukan pembayaran asli.
+        - Buka web melalui laptop/pc saja, jangan akses web di android/ios/tab ( belum di perbaiki :v )
